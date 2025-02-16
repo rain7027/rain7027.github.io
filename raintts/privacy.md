@@ -45,6 +45,26 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
+**User Consent and Consumption Information Submission for Apple**
+
+When you make a subscription or purchase within our app, we may receive a notification from Apple. In such cases, before submitting your consumption information to Apple, we will obtain your explicit consent.
+
+We will prompt you with the following:
+
+We need to report your consumption information to Apple to ensure the correct update of your purchase entitlements (e.g., subscription periods).
+We will only submit this information to Apple after receiving your consent.
+You have the option to decline, but this may affect the normal operation of certain purchase-related features.
+
+***Data Collection and Usage***
+
+We will only submit consumption information to Apple after obtaining your explicit consent.
+This information is used solely for validating your purchase status and will not be used for any other purposes.
+We will not share this information with unauthorized third parties.
+
+***Withdrawal of Consent***
+
+If you change your mind after consenting to the submission of consumption information, you can stop further submissions through the [app settings]. Please note that information already submitted to Apple cannot be revoked, but it will not affect your privacy rights.
+
 **Changes to This Privacy Policy**
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
