@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Mark Win built the AI Detector app as a Freemium app. This SERVICE is provided by Freemium at no cost and is intended for use as is.
+Mark Win built the AI Video Generator app as a Freemium app. This SERVICE is provided by Freemium at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
